@@ -8,6 +8,7 @@ Can be deployed independently.
 Organized around specific business functions.
 Often owned and maintained by a small, focused team.
 What I’ve Built
+
 Throughout this project, I developed several microservices that communicate with each other to form a distributed application. These services include:
 
 Front End Service: A web service that displays user-facing pages.
