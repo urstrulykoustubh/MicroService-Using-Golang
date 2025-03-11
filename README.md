@@ -28,3 +28,10 @@ Developing loosely coupled, single-purpose services that communicate with each o
 Implementing communication between services using REST APIs, RPC, and gRPC.
 Using RabbitMQ and AMQP to push events between services.
 Deploying and managing a distributed application using Docker Swarm and Kubernetes, allowing for easy scaling and updates.
+
+
+Demo:-
+
+
+1. UI listed with all microservices
+   
